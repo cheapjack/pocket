@@ -1,0 +1,1241 @@
+2015-01-06 11:55:09 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 11:55:09 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 11:55:09 [INFO] Loading pocketmine.yml...
+2015-01-06 11:55:09 [INFO] Loading server properties...
+2015-01-06 11:55:09 [INFO] Starting remote control listener
+2015-01-06 11:55:09 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 11:55:09 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 11:55:09 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 11:55:09 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 11:55:26 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 11:55:26 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 11:55:26 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 11:55:26 [INFO] ----- -------------------------- -----
+2015-01-06 11:55:26 [NOTICE] Level "world" not found
+2015-01-06 11:55:26 [INFO] Preparing level "world"
+2015-01-06 11:55:26 [NOTICE] Spawn terrain for level "world" is being generated in the background
+2015-01-06 11:55:26 [INFO] Starting GS4 status listener
+2015-01-06 11:55:26 [INFO] Setting query port to 19132
+2015-01-06 11:55:26 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 11:55:26 [INFO] Default game type: SURVIVAL
+2015-01-06 11:55:26 [INFO] Done (87.26s)! For help, type "help" or "?"
+2015-01-06 11:55:38 [NOTICE] Player data not found for "cheapjack", creating new profile
+2015-01-06 11:55:38 [INFO] cheapjack[/192.168.0.109:39198] logged in with entity id 1 at (world, 128, 70, 128)
+2015-01-06 11:55:43 [INFO] cheapjack joined the game
+2015-01-06 11:55:50 [INFO] cheapjack has left the game
+2015-01-06 11:55:50 [INFO] cheapjack[/192.168.0.109:39198] logged out due to client disconnect
+2015-01-06 11:55:51 [WARNING] Can't keep up! Is the server overloaded?
+2015-01-06 11:55:58 [INFO] CONSOLE: Stopping the server...
+2015-01-06 11:55:58 [INFO] Unloading level "world"
+2015-01-06 11:55:58 [INFO] Stopping other threads
+2015-01-06 12:13:16 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 12:13:16 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 12:13:16 [INFO] Loading pocketmine.yml...
+2015-01-06 12:13:16 [INFO] Loading server properties...
+2015-01-06 12:13:16 [INFO] Starting remote control listener
+2015-01-06 12:13:16 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 12:13:16 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 12:13:16 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 12:13:16 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 12:13:16 [INFO] Loading CommandRepeater v1.0.1
+2015-01-06 12:13:16 [INFO] Loading DevTools v1.9.0
+2015-01-06 12:13:16 [INFO] Loading EssentialsPE v1.1.0
+2015-01-06 12:13:16 [INFO] Loading PaintMyLawn v1.2.0
+2015-01-06 12:13:16 [INFO] Loading RealTime v2.1
+2015-01-06 12:13:31 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 12:13:31 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 12:13:31 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 12:13:31 [INFO] ----- -------------------------- -----
+2015-01-06 12:13:31 [INFO] Enabling DevTools v1.9.0
+2015-01-06 12:13:31 [INFO] [DevTools] Registered folder plugin loader
+2015-01-06 12:13:31 [INFO] Preparing level "world"
+2015-01-06 12:13:31 [INFO] Enabling CommandRepeater v1.0.1
+2015-01-06 12:13:31 [INFO] Enabling EssentialsPE v1.1.0
+2015-01-06 12:13:32 [INFO] [EssentialsPE] Loading...
+2015-01-06 12:13:32 [INFO] Enabling PaintMyLawn v1.2.0
+2015-01-06 12:13:32 [INFO] Enabling RealTime v2.1
+2015-01-06 12:13:32 [INFO] [RealTime] RealTime enabled.
+2015-01-06 12:13:32 [INFO] [RealTime] [RealTime] It is 12 (20h is same as 8pm)
+2015-01-06 12:13:32 [INFO] [RealTime] 6000
+2015-01-06 12:13:32 [INFO] Starting GS4 status listener
+2015-01-06 12:13:32 [INFO] Setting query port to 19132
+2015-01-06 12:13:32 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 12:13:32 [INFO] Default game type: SURVIVAL
+2015-01-06 12:13:32 [INFO] Done (16.629s)! For help, type "help" or "?"
+2015-01-06 12:13:32 [INFO] [RealTime] It is 12:13
+2015-01-06 12:13:36 [INFO] cheapjack[/192.168.0.109:54555] logged in with entity id 1 at (world, 128, 70, 128)
+2015-01-06 12:13:37 [INFO] cheapjack joined the game
+2015-01-06 12:13:38 [WARNING] Can't keep up! Is the server overloaded?
+2015-01-06 12:13:50 [INFO] Unknown game mode
+2015-01-06 12:14:08 [INFO] CONSOLE: Gave cheapjack 1 of Glass (20:0)
+2015-01-06 12:14:35 [INFO] CONSOLE: Gave cheapjack 2 of Glass (20:0)
+2015-01-06 12:14:44 [INFO] There is no item called Allium.
+2015-01-06 12:14:56 [INFO] There is no item called alium.
+2015-01-06 12:15:30 [INFO] CONSOLE: Stopping the server...
+2015-01-06 12:15:32 [INFO] Disabling CommandRepeater v1.0.1
+2015-01-06 12:15:32 [INFO] Disabling DevTools v1.9.0
+2015-01-06 12:15:32 [INFO] Disabling EssentialsPE v1.1.0
+2015-01-06 12:15:32 [INFO] Disabling PaintMyLawn v1.2.0
+2015-01-06 12:15:32 [INFO] Disabling RealTime v2.1
+2015-01-06 12:15:32 [INFO] [RealTime] RealTime disabled.
+2015-01-06 12:15:32 [INFO] cheapjack has left the game
+2015-01-06 12:15:32 [INFO] cheapjack[/192.168.0.109:54555] logged out due to Server closed
+2015-01-06 12:15:32 [INFO] Unloading level "world"
+2015-01-06 12:15:33 [INFO] Stopping other threads
+2015-01-06 12:17:16 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 12:17:16 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 12:17:16 [INFO] Loading pocketmine.yml...
+2015-01-06 12:17:16 [INFO] Loading server properties...
+2015-01-06 12:17:16 [INFO] Starting remote control listener
+2015-01-06 12:17:16 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 12:17:16 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 12:17:16 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 12:17:16 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 12:17:17 [INFO] Loading CommandRepeater v1.0.1
+2015-01-06 12:17:17 [INFO] Loading DevTools v1.9.0
+2015-01-06 12:17:17 [INFO] Loading EssentialsPE v1.1.0
+2015-01-06 12:17:17 [INFO] Loading PaintMyLawn v1.2.0
+2015-01-06 12:17:17 [INFO] Loading RealTime v2.1
+2015-01-06 12:17:32 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 12:17:32 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 12:17:32 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 12:17:32 [INFO] ----- -------------------------- -----
+2015-01-06 12:17:32 [INFO] Enabling DevTools v1.9.0
+2015-01-06 12:17:32 [INFO] [DevTools] Registered folder plugin loader
+2015-01-06 12:17:32 [INFO] Preparing level "world"
+2015-01-06 12:17:32 [INFO] Enabling CommandRepeater v1.0.1
+2015-01-06 12:17:32 [INFO] Enabling EssentialsPE v1.1.0
+2015-01-06 12:17:32 [INFO] [EssentialsPE] Loading...
+2015-01-06 12:17:32 [INFO] Enabling PaintMyLawn v1.2.0
+2015-01-06 12:17:32 [INFO] Enabling RealTime v2.1
+2015-01-06 12:17:32 [INFO] [RealTime] RealTime enabled.
+2015-01-06 12:17:32 [INFO] [RealTime] [RealTime] It is 12 (20h is same as 8pm)
+2015-01-06 12:17:32 [INFO] [RealTime] 6000
+2015-01-06 12:17:32 [INFO] Starting GS4 status listener
+2015-01-06 12:17:32 [INFO] Setting query port to 19132
+2015-01-06 12:17:32 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 12:17:33 [INFO] Default game type: SURVIVAL
+2015-01-06 12:17:33 [INFO] Done (16.194s)! For help, type "help" or "?"
+2015-01-06 12:17:33 [INFO] [RealTime] It is 12:17
+2015-01-06 12:18:34 [INFO] cheapjack[/192.168.0.109:46165] logged in with entity id 1 at (world, 128, 70, 128)
+2015-01-06 12:18:35 [INFO] cheapjack joined the game
+2015-01-06 12:19:23 [INFO] There is no item called give.
+2015-01-06 12:19:57 [INFO] /burn <player> <seconds>
+2015-01-06 12:20:06 [INFO] CONSOLE: Gave cheapjack 64 of Glass (20:0)
+2015-01-06 12:20:14 [INFO] CONSOLE: Gave cheapjack 64 of Unknown (351:0)
+2015-01-06 12:20:56 [INFO] CONSOLE: Gave cheapjack 64 of Unknown (351:15)
+2015-01-06 12:21:15 [WARNING] Can't keep up! Is the server overloaded?
+2015-01-06 12:22:37 [INFO] [RealTime] It is 12:22
+2015-01-06 12:22:42 [INFO] CONSOLE: Gave cheapjack 64 of Poppy (38:0)
+2015-01-06 12:23:06 [INFO] CONSOLE: Gave cheapjack 64 of Poppy (38:3)
+2015-01-06 12:23:41 [INFO] CONSOLE: Stopping the server...
+2015-01-06 12:23:42 [INFO] Disabling CommandRepeater v1.0.1
+2015-01-06 12:23:42 [INFO] Disabling DevTools v1.9.0
+2015-01-06 12:23:42 [INFO] Disabling EssentialsPE v1.1.0
+2015-01-06 12:23:42 [INFO] Disabling PaintMyLawn v1.2.0
+2015-01-06 12:23:42 [INFO] Disabling RealTime v2.1
+2015-01-06 12:23:42 [INFO] [RealTime] RealTime disabled.
+2015-01-06 12:23:42 [INFO] cheapjack has left the game
+2015-01-06 12:23:42 [INFO] cheapjack[/192.168.0.109:46165] logged out due to Server closed
+2015-01-06 12:23:42 [INFO] Unloading level "world"
+2015-01-06 12:23:43 [INFO] Stopping other threads
+2015-01-06 12:28:33 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 12:28:33 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 12:28:33 [INFO] Loading pocketmine.yml...
+2015-01-06 12:28:33 [INFO] Loading server properties...
+2015-01-06 12:28:33 [INFO] Starting remote control listener
+2015-01-06 12:28:33 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 12:28:33 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 12:28:33 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 12:28:33 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 12:28:33 [INFO] Loading CommandRepeater v1.0.1
+2015-01-06 12:28:33 [INFO] Loading DevTools v1.9.0
+2015-01-06 12:28:33 [INFO] Loading EssentialsPE v1.1.0
+2015-01-06 12:28:33 [INFO] Loading PaintMyLawn v1.2.0
+2015-01-06 12:28:33 [INFO] Loading RealTime v2.1
+2015-01-06 12:28:48 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 12:28:48 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 12:28:48 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 12:28:48 [INFO] ----- -------------------------- -----
+2015-01-06 12:28:48 [INFO] Enabling DevTools v1.9.0
+2015-01-06 12:28:48 [INFO] [DevTools] Registered folder plugin loader
+2015-01-06 12:28:48 [NOTICE] Level "world" not found
+2015-01-06 12:28:48 [INFO] Preparing level "world"
+2015-01-06 12:28:48 [NOTICE] Spawn terrain for level "world" is being generated in the background
+2015-01-06 12:28:48 [INFO] Enabling CommandRepeater v1.0.1
+2015-01-06 12:28:48 [INFO] Enabling EssentialsPE v1.1.0
+2015-01-06 12:28:49 [INFO] [EssentialsPE] Loading...
+2015-01-06 12:28:49 [INFO] Enabling PaintMyLawn v1.2.0
+2015-01-06 12:28:49 [INFO] Enabling RealTime v2.1
+2015-01-06 12:28:49 [INFO] [RealTime] RealTime enabled.
+2015-01-06 12:28:49 [INFO] [RealTime] [RealTime] It is 12 (20h is same as 8pm)
+2015-01-06 12:28:49 [INFO] [RealTime] 6000
+2015-01-06 12:28:49 [INFO] Starting GS4 status listener
+2015-01-06 12:28:49 [INFO] Setting query port to 19132
+2015-01-06 12:28:49 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 12:28:49 [INFO] Default game type: SURVIVAL
+2015-01-06 12:28:49 [INFO] Done (16.662s)! For help, type "help" or "?"
+2015-01-06 12:28:49 [INFO] [RealTime] It is 12:28
+2015-01-06 12:29:03 [INFO] cheapjack[/192.168.0.109:59155] logged in with entity id 1 at (world, 125.8448, 70, 127.8787)
+2015-01-06 12:29:04 [INFO] cheapjack joined the game
+2015-01-06 12:30:58 [INFO] cheapjack left the game
+2015-01-06 12:30:58 [INFO] cheapjack[/192.168.0.109:59155] logged out due to client disconnect
+2015-01-06 12:31:02 [INFO] CONSOLE: Stopping the server...
+2015-01-06 12:31:02 [INFO] Disabling CommandRepeater v1.0.1
+2015-01-06 12:31:02 [INFO] Disabling DevTools v1.9.0
+2015-01-06 12:31:02 [INFO] Disabling EssentialsPE v1.1.0
+2015-01-06 12:31:02 [INFO] Disabling PaintMyLawn v1.2.0
+2015-01-06 12:31:02 [INFO] Disabling RealTime v2.1
+2015-01-06 12:31:02 [INFO] [RealTime] RealTime disabled.
+2015-01-06 12:31:02 [INFO] Unloading level "world"
+2015-01-06 12:31:02 [INFO] Stopping other threads
+2015-01-06 12:32:10 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 12:32:10 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 12:32:10 [INFO] Loading pocketmine.yml...
+2015-01-06 12:32:10 [INFO] Loading server properties...
+2015-01-06 12:32:10 [INFO] Starting remote control listener
+2015-01-06 12:32:10 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 12:32:10 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 12:32:10 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 12:32:10 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 12:32:10 [INFO] Loading CommandRepeater v1.0.1
+2015-01-06 12:32:10 [INFO] Loading DevTools v1.9.0
+2015-01-06 12:32:10 [INFO] Loading EssentialsPE v1.1.0
+2015-01-06 12:32:10 [INFO] Loading PaintMyLawn v1.2.0
+2015-01-06 12:32:10 [INFO] Loading RealTime v2.1
+2015-01-06 12:32:10 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 12:32:25 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 12:32:25 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 12:32:25 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 12:32:25 [INFO] ----- -------------------------- -----
+2015-01-06 12:32:25 [INFO] Enabling DevTools v1.9.0
+2015-01-06 12:32:25 [INFO] [DevTools] Registered folder plugin loader
+2015-01-06 12:32:25 [INFO] Preparing level "world"
+2015-01-06 12:32:25 [INFO] Enabling CommandRepeater v1.0.1
+2015-01-06 12:32:25 [INFO] Enabling EssentialsPE v1.1.0
+2015-01-06 12:32:25 [INFO] [EssentialsPE] Loading...
+2015-01-06 12:32:25 [INFO] Enabling PaintMyLawn v1.2.0
+2015-01-06 12:32:25 [INFO] Enabling RealTime v2.1
+2015-01-06 12:32:25 [INFO] [RealTime] RealTime enabled.
+2015-01-06 12:32:25 [INFO] [RealTime] [RealTime] It is 12 (20h is same as 8pm)
+2015-01-06 12:32:25 [INFO] [RealTime] 6000
+2015-01-06 12:32:25 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 12:32:26 [INFO] Starting GS4 status listener
+2015-01-06 12:32:26 [INFO] Setting query port to 19132
+2015-01-06 12:32:26 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 12:32:26 [INFO] Default game type: SURVIVAL
+2015-01-06 12:32:26 [INFO] Done (16.521s)! For help, type "help" or "?"
+2015-01-06 12:32:26 [INFO] [RealTime] It is 12:32
+2015-01-06 12:33:42 [INFO] cheapjack[/192.168.0.109:60873] logged in with entity id 1 at (world, 116.3328, 4, 132.8723)
+2015-01-06 12:33:43 [INFO] cheapjack joined the game
+2015-01-06 12:34:43 [INFO] CONSOLE: Gave cheapjack 1 of Torch (50:0)
+2015-01-06 12:35:09 [INFO] CONSOLE: Gave cheapjack 1 of Diamond Pickaxe (278:0)
+2015-01-06 12:35:49 [INFO] cheapjack's inventory was cleared
+2015-01-06 12:36:06 [INFO] CONSOLE: Gave cheapjack 1 of Diamond Pickaxe (278:0)
+2015-01-06 12:36:38 [INFO] CONSOLE: Gave cheapjack 1 of Lilac (175:1)
+2015-01-06 12:36:55 [INFO] Commands available for you currently: (page 1 of 0)
+2015-01-06 12:37:05 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:37:10 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:37:16 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:37:18 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2015-01-06 12:37:18 [INFO] /afk: Toggle the "Away From the Keyboard" status
+2015-01-06 12:37:18 [INFO] /antioch: Holy hand grenade
+2015-01-06 12:37:18 [INFO] /back: Teleport to your previous location
+2015-01-06 12:37:18 [INFO] /ban: Prevents the specified player from using this server
+2015-01-06 12:37:18 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2015-01-06 12:37:18 [INFO] /banlist: View all players banned from this server
+2015-01-06 12:37:18 [INFO] /break: Breaks the block you're looking at
+2015-01-06 12:37:18 [INFO] /broadcast: Broadcast a message.
+2015-01-06 12:37:18 [INFO] /burn: Set a player on fire
+2015-01-06 12:37:18 [INFO] /checkperm: Checks a permission value for the current sender, or a player
+2015-01-06 12:37:18 [INFO] /clearinventory: Clear your/other's inventory
+2015-01-06 12:37:18 [INFO] /compass: Display your current bearing direction
+2015-01-06 12:37:18 [INFO] /defaultgamemode: Set the default gamemode
+2015-01-06 12:37:18 [INFO] /delhome: Remove a home
+2015-01-06 12:37:18 [INFO] /delwarp: Delete a warp
+2015-01-06 12:37:18 [INFO] /deop: Takes the specified player's operator status
+2015-01-06 12:37:18 [INFO] /depth: Display your depth related to sea-level
+2015-01-06 12:37:18 [INFO] /difficulty: Sets the game difficulty
+2015-01-06 12:37:18 [INFO] /essentials: Get current Essentials version
+2015-01-06 12:37:18 [INFO] /extinguish: Extinguish a player
+2015-01-06 12:37:18 [INFO] /extractplugin: Extracts the source code from a Phar plugin
+2015-01-06 12:37:18 [INFO] /gamemode: Changes the player to a specific game mode
+2015-01-06 12:37:18 [INFO] /getpos: Get your/other's position
+2015-01-06 12:37:18 [INFO] /give: Gives the specified player a certain amount of items
+2015-01-06 12:37:18 [INFO] /god: Prevent you to take any damage
+2015-01-06 12:37:18 [INFO] /heal: Heal yourself or other player
+2015-01-06 12:37:18 [INFO] /help: Shows the help menu
+2015-01-06 12:37:18 [INFO] /home: Teleport to your home
+2015-01-06 12:37:18 [INFO] /hour: Get tell the hour
+2015-01-06 12:37:18 [INFO] /item: Gives yourself an item
+2015-01-06 12:37:18 [INFO] /itemdb: Display the information attached to the item you hold
+2015-01-06 12:37:18 [INFO] /jump: Teleport you to the block you're looking at
+2015-01-06 12:37:18 [INFO] /kick: Removes the specified player from the server
+2015-01-06 12:37:18 [INFO] /kickall: Kick all the players
+2015-01-06 12:37:18 [INFO] /kill: Kill other people
+2015-01-06 12:37:18 [INFO] /list: Lists all online players
+2015-01-06 12:37:18 [INFO] /makeplugin: Creates a Phar plugin from one in source code form
+2015-01-06 12:37:18 [INFO] /makeserver: Creates a PocketMine-MP Phar
+2015-01-06 12:37:18 [INFO] /me: Performs the specified action in chat
+2015-01-06 12:37:18 [INFO] /more: Get a stack of the item you're holding
+2015-01-06 12:37:18 [INFO] /mute: Prevent a player from chatting
+2015-01-06 12:37:18 [INFO] /near: List the players near to you
+2015-01-06 12:37:18 [INFO] /nick: Change your in-game name
+2015-01-06 12:37:18 [INFO] /nuke: Thin carpet of bomb
+2015-01-06 12:37:18 [INFO] /op: Gives the specified player operator status
+2015-01-06 12:37:18 [INFO] /paint: Sets the current column grass color
+2015-01-06 12:37:18 [INFO] /paintimage: Sets grass column colors to a PPM binary image, centered on the current block
+2015-01-06 12:37:18 [INFO] /pardon: Allows the specified player to use this server
+2015-01-06 12:37:18 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2015-01-06 12:37:18 [INFO] /plugins: Gets a list of plugins running on the server
+2015-01-06 12:37:18 [INFO] /powertool: Toogle PowerTool on the item you're holding
+2015-01-06 12:37:18 [INFO] /powertooltoggle: Disable PowerTool from all the items
+2015-01-06 12:37:18 [INFO] /ptime: Changes the time of a player
+2015-01-06 12:37:18 [INFO] /pvp: Toggle PvP on/off
+2015-01-06 12:37:18 [INFO] /realname: Check the realname of a player
+2015-01-06 12:37:18 [INFO] /realtime.command.hour: Allows the users to run the hour command to get tell the hour
+2015-01-06 12:37:18 [INFO] /realtime.command.rt: Allows the user to run the rt command to control the time
+2015-01-06 12:37:18 [INFO] /reload: Reloads the server configuration and plugins
+2015-01-06 12:37:18 [INFO] /repair: Repair the item you're holding
+2015-01-06 12:37:18 [INFO] /repeat: Repeat the last command you made
+2015-01-06 12:37:18 [INFO] /rt: Lock the time
+2015-01-06 12:37:18 [INFO] /save-all: Saves the server to disk
+2015-01-06 12:37:18 [INFO] /save-off: Disables server autosaving
+2015-01-06 12:37:18 [INFO] /save-on: Enables server autosaving
+2015-01-06 12:37:18 [INFO] /say: Broadcasts the given message as the sender
+2015-01-06 12:37:18 [INFO] /seed: Shows the world seed
+2015-01-06 12:37:18 [INFO] /seen: See player's last played time
+2015-01-06 12:37:18 [INFO] /sethome: Create or update a home position
+2015-01-06 12:37:18 [INFO] /setspawn: Change your server main spawn point
+2015-01-06 12:37:18 [INFO] /setwarp: Create a warp (or update it)
+2015-01-06 12:37:18 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2015-01-06 12:37:18 [INFO] /spawn: Teleport to server's main spawn
+2015-01-06 12:37:18 [INFO] /spawnpoint: Sets a player's spawn point
+2015-01-06 12:37:18 [INFO] /stop: Stops the server, with optional reason
+2015-01-06 12:37:18 [INFO] /sudo: Run a command as another player
+2015-01-06 12:37:18 [INFO] /suicide: Kill yourself
+2015-01-06 12:37:18 [INFO] /tell: Sends a private message to the given player
+2015-01-06 12:37:18 [INFO] /tempban: Temporary bans the specified player
+2015-01-06 12:37:18 [INFO] /time: Changes the time on each world
+2015-01-06 12:37:18 [INFO] /timings: Records timings to see performance of the server.
+2015-01-06 12:37:18 [INFO] /top: Teleport to the highest block above you
+2015-01-06 12:37:18 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2015-01-06 12:37:18 [INFO] /tpa: Asks the player if you can telepor to them
+2015-01-06 12:37:18 [INFO] /tpaccept: Accept a teleport request
+2015-01-06 12:37:18 [INFO] /tpahere: Request a player to teleport to your position
+2015-01-06 12:37:18 [INFO] /tpall: Teleport all player to you or another player
+2015-01-06 12:37:18 [INFO] /tpdeny: Decline a Teleport Request
+2015-01-06 12:37:18 [INFO] /tphere: Teleport a player to you
+2015-01-06 12:37:18 [INFO] /unlimited: Allow you to place unlimited blocks
+2015-01-06 12:37:18 [INFO] /vanish: Hide from other players!
+2015-01-06 12:37:18 [INFO] /version: Gets the version of this server including any plugins in use
+2015-01-06 12:37:18 [INFO] /warp: Teleport to a warp
+2015-01-06 12:37:18 [INFO] /whitelist: Manages the list of players allowed to use this server
+2015-01-06 12:37:18 [INFO] /world: Teleport between worlds
+2015-01-06 12:37:18 [INFO] /worldeditart: WorldEditArt main command
+2015-01-06 12:37:28 [INFO] [RealTime] It is 12:37
+2015-01-06 12:37:45 [INFO] ---- Permission node cheapjack ----
+2015-01-06 12:37:45 [INFO] Permission does not exist
+2015-01-06 12:37:45 [INFO] Default: op
+2015-01-06 12:37:45 [INFO] CONSOLE has it set to true
+2015-01-06 12:37:55 [INFO] CONSOLE: Opped cheapjack
+2015-01-06 12:38:18 [INFO] Commands available for you currently: (page 1 of 0)
+2015-01-06 12:38:30 [INFO] Commands available for you currently: (page 0 of 0)
+2015-01-06 12:40:24 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:40:28 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:40:31 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:40:34 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:40:41 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:40:46 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:42:33 [INFO] [RealTime] It is 12:42
+2015-01-06 12:44:14 [INFO] CONSOLE: Set time to 0
+2015-01-06 12:45:30 [INFO] Pleas run this command in-game
+2015-01-06 12:47:27 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:47:39 [INFO] [RealTime] It is 12:47
+2015-01-06 12:52:40 [INFO] [RealTime] It is 12:52
+2015-01-06 12:52:46 [INFO] CONSOLE: Set time to 0
+2015-01-06 12:52:47 [INFO] Unknown command. Type "help" for help.
+2015-01-06 12:55:15 [INFO] cheapjack left the game
+2015-01-06 12:55:15 [INFO] cheapjack[/192.168.0.109:60873] logged out due to Kicked by admin. Reason: logged in from another location
+2015-01-06 12:55:15 [INFO] cheapjack[/192.168.0.109:52866] logged in with entity id 2 at (world, 105.9726, 4, 139.1249)
+2015-01-06 12:55:20 [INFO] cheapjack joined the game
+2015-01-06 12:57:44 [INFO] [RealTime] It is 12:57
+2015-01-06 13:02:44 [INFO] [RealTime] It is 13:02
+2015-01-06 13:03:33 [INFO] CONSOLE: Set time to 0
+2015-01-06 13:05:49 [INFO] CONSOLE: Gave cheapjack 1 of Torch (50:0)
+2015-01-06 13:06:13 [INFO] CONSOLE: Gave cheapjack 10 of Torch (50:0)
+2015-01-06 13:06:21 [INFO] CONSOLE: Gave cheapjack 1 of Diamond Pickaxe (278:0)
+2015-01-06 13:07:44 [INFO] [RealTime] It is 13:07
+2015-01-06 13:07:49 [INFO] Unknown command. Type "help" for help.
+2015-01-06 13:12:00 [INFO] CONSOLE: Stopping the server...
+2015-01-06 13:12:00 [INFO] Disabling CommandRepeater v1.0.1
+2015-01-06 13:12:00 [INFO] Disabling DevTools v1.9.0
+2015-01-06 13:12:00 [INFO] Disabling EssentialsPE v1.1.0
+2015-01-06 13:12:00 [INFO] Disabling PaintMyLawn v1.2.0
+2015-01-06 13:12:00 [INFO] Disabling RealTime v2.1
+2015-01-06 13:12:00 [INFO] [RealTime] RealTime disabled.
+2015-01-06 13:12:00 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 13:12:00 [INFO] cheapjack has left the game
+2015-01-06 13:12:00 [INFO] cheapjack[/192.168.0.109:52866] logged out due to Server closed
+2015-01-06 13:12:00 [INFO] Unloading level "world"
+2015-01-06 13:12:00 [INFO] Stopping other threads
+2015-01-06 13:12:49 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 13:12:49 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 13:12:49 [INFO] Loading pocketmine.yml...
+2015-01-06 13:12:49 [INFO] Loading server properties...
+2015-01-06 13:12:49 [INFO] Starting remote control listener
+2015-01-06 13:12:49 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 13:12:49 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 13:12:49 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 13:12:49 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 13:12:49 [INFO] Loading CommandRepeater v1.0.1
+2015-01-06 13:12:49 [INFO] Loading DevTools v1.9.0
+2015-01-06 13:12:49 [INFO] Loading EssentialsPE v1.1.0
+2015-01-06 13:12:49 [INFO] Loading PaintMyLawn v1.2.0
+2015-01-06 13:12:49 [INFO] Loading RealTime v2.1
+2015-01-06 13:12:49 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 13:13:05 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 13:13:05 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 13:13:05 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 13:13:05 [INFO] ----- -------------------------- -----
+2015-01-06 13:13:05 [INFO] Enabling DevTools v1.9.0
+2015-01-06 13:13:05 [INFO] [DevTools] Registered folder plugin loader
+2015-01-06 13:13:05 [INFO] Preparing level "world"
+2015-01-06 13:13:05 [INFO] Enabling CommandRepeater v1.0.1
+2015-01-06 13:13:05 [INFO] Enabling EssentialsPE v1.1.0
+2015-01-06 13:13:05 [INFO] [EssentialsPE] Loading...
+2015-01-06 13:13:05 [INFO] Enabling PaintMyLawn v1.2.0
+2015-01-06 13:13:05 [INFO] Enabling RealTime v2.1
+2015-01-06 13:13:05 [INFO] [RealTime] RealTime enabled.
+2015-01-06 13:13:05 [INFO] [RealTime] [RealTime] It is 13 (20h is same as 8pm)
+2015-01-06 13:13:05 [INFO] [RealTime] 6000
+2015-01-06 13:13:05 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 13:13:05 [INFO] Starting GS4 status listener
+2015-01-06 13:13:05 [INFO] Setting query port to 19132
+2015-01-06 13:13:05 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 13:13:06 [INFO] Default game type: SURVIVAL
+2015-01-06 13:13:06 [INFO] Done (16.861s)! For help, type "help" or "?"
+2015-01-06 13:13:06 [INFO] [RealTime] It is 13:13
+2015-01-06 13:13:14 [INFO] cheapjack[/192.168.0.109:54262] logged in with entity id 1 at (world, 120.9719, 4, 124.4709)
+2015-01-06 13:13:15 [INFO] cheapjack joined the game
+2015-01-06 13:13:19 [INFO] CONSOLE: Set time to 0
+2015-01-06 13:13:35 [INFO] CONSOLE: Set cheapjack's gamemode to creative mode
+2015-01-06 13:13:43 [INFO] cheapjack left the game
+2015-01-06 13:13:43 [INFO] cheapjack[/192.168.0.109:54262] logged out due to Kicked by admin. Reason: logged in from another location
+2015-01-06 13:13:43 [INFO] cheapjack[/192.168.0.109:54077] logged in with entity id 2 at (world, 119.4806, 4, 125.8065)
+2015-01-06 13:13:44 [INFO] cheapjack joined the game
+2015-01-06 13:14:12 [INFO] Player is in creative mode
+2015-01-06 13:14:22 [INFO] cheapjack already has game mode creative
+2015-01-06 13:14:28 [INFO] CONSOLE: Set cheapjack's gamemode to survival mode
+2015-01-06 13:14:38 [INFO] cheapjack left the game
+2015-01-06 13:14:38 [INFO] cheapjack[/192.168.0.109:54077] logged out due to timeout
+2015-01-06 13:18:06 [INFO] [RealTime] It is 13:18
+2015-01-06 13:18:30 [INFO] cheapjack[/192.168.0.109:60238] logged in with entity id 3 at (world, 114.7492, 16, 135.9003)
+2015-01-06 13:18:31 [INFO] cheapjack joined the game
+2015-01-06 13:18:54 [INFO] cheapjack: Gave cheapjack 10 of Lilac (175:1)
+2015-01-06 13:19:14 [INFO] cheapjack left the game
+2015-01-06 13:19:14 [INFO] cheapjack[/192.168.0.109:60238] logged out due to client disconnect
+2015-01-06 13:23:08 [INFO] [RealTime] It is 13:23
+2015-01-06 13:28:11 [INFO] [RealTime] It is 13:28
+2015-01-06 13:28:51 [INFO] cheapjack[/192.168.0.109:58268] logged in with entity id 4 at (world, 114.7492, 16, 135.9003)
+2015-01-06 13:28:51 [INFO] cheapjack joined the game
+2015-01-06 13:28:54 [INFO] cheapjack left the game
+2015-01-06 13:28:54 [INFO] cheapjack[/192.168.0.109:58268] logged out due to client disconnect
+2015-01-06 13:33:11 [INFO] [RealTime] It is 13:33
+2015-01-06 13:38:11 [INFO] [RealTime] It is 13:38
+2015-01-06 13:43:11 [INFO] [RealTime] It is 13:43
+2015-01-06 13:48:11 [INFO] [RealTime] It is 13:48
+2015-01-06 13:53:11 [INFO] [RealTime] It is 13:53
+2015-01-06 13:53:33 [INFO] CONSOLE: Stopping the server...
+2015-01-06 13:53:34 [INFO] Disabling CommandRepeater v1.0.1
+2015-01-06 13:53:34 [INFO] Disabling DevTools v1.9.0
+2015-01-06 13:53:34 [INFO] Disabling EssentialsPE v1.1.0
+2015-01-06 13:53:34 [INFO] Disabling PaintMyLawn v1.2.0
+2015-01-06 13:53:34 [INFO] Disabling RealTime v2.1
+2015-01-06 13:53:34 [INFO] [RealTime] RealTime disabled.
+2015-01-06 13:53:34 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 13:53:34 [INFO] Unloading level "world"
+2015-01-06 13:53:34 [INFO] Stopping other threads
+2015-01-06 21:07:07 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-01-06 21:07:07 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-01-06 21:07:07 [INFO] Loading pocketmine.yml...
+2015-01-06 21:07:07 [INFO] Loading server properties...
+2015-01-06 21:07:07 [INFO] Starting remote control listener
+2015-01-06 21:07:07 [INFO] RCON running on 0.0.0.0:19132
+2015-01-06 21:07:07 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-01-06 21:07:07 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-01-06 21:07:07 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-01-06 21:07:07 [INFO] Loading CommandRepeater v1.0.1
+2015-01-06 21:07:07 [INFO] Loading DevTools v1.9.0
+2015-01-06 21:07:07 [INFO] Loading EssentialsPE v1.1.0
+2015-01-06 21:07:07 [INFO] Loading PaintMyLawn v1.2.0
+2015-01-06 21:07:07 [INFO] Loading RealTime v2.1
+2015-01-06 21:07:07 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 21:07:08 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-01-06 21:07:08 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-01-06 21:07:08 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-01-06 21:07:08 [INFO] ----- -------------------------- -----
+2015-01-06 21:07:08 [INFO] Enabling DevTools v1.9.0
+2015-01-06 21:07:08 [INFO] [DevTools] Registered folder plugin loader
+2015-01-06 21:07:08 [INFO] Preparing level "world"
+2015-01-06 21:07:08 [INFO] Enabling CommandRepeater v1.0.1
+2015-01-06 21:07:08 [INFO] Enabling EssentialsPE v1.1.0
+2015-01-06 21:07:08 [INFO] [EssentialsPE] Loading...
+2015-01-06 21:07:08 [INFO] Enabling PaintMyLawn v1.2.0
+2015-01-06 21:07:08 [INFO] Enabling RealTime v2.1
+2015-01-06 21:07:08 [INFO] [RealTime] RealTime enabled.
+2015-01-06 21:07:08 [INFO] [RealTime] [RealTime] It is 21 (20h is same as 8pm)
+2015-01-06 21:07:08 [INFO] [RealTime] 6000
+2015-01-06 21:07:08 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 21:07:09 [INFO] Starting GS4 status listener
+2015-01-06 21:07:09 [INFO] Setting query port to 19132
+2015-01-06 21:07:09 [INFO] Query running on 0.0.0.0:19132
+2015-01-06 21:07:10 [INFO] Default game type: SURVIVAL
+2015-01-06 21:07:10 [INFO] Done (3.165s)! For help, type "help" or "?"
+2015-01-06 21:07:10 [INFO] [RealTime] It is 21:07
+2015-01-06 21:08:31 [INFO] CONSOLE: Stopping the server...
+2015-01-06 21:08:31 [INFO] Disabling CommandRepeater v1.0.1
+2015-01-06 21:08:31 [INFO] Disabling DevTools v1.9.0
+2015-01-06 21:08:31 [INFO] Disabling EssentialsPE v1.1.0
+2015-01-06 21:08:31 [INFO] Disabling PaintMyLawn v1.2.0
+2015-01-06 21:08:31 [INFO] Disabling RealTime v2.1
+2015-01-06 21:08:31 [INFO] [RealTime] RealTime disabled.
+2015-01-06 21:08:31 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-01-06 21:08:31 [INFO] Unloading level "world"
+2015-01-06 21:08:31 [INFO] Stopping other threads
+2015-02-12 15:09:05 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-02-12 15:09:05 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-02-12 15:09:05 [INFO] Loading pocketmine.yml...
+2015-02-12 15:09:05 [INFO] Loading server properties...
+2015-02-12 15:09:05 [INFO] Starting remote control listener
+2015-02-12 15:09:05 [INFO] RCON running on 0.0.0.0:19132
+2015-02-12 15:09:05 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-02-12 15:09:05 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-02-12 15:09:05 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-02-12 15:09:06 [INFO] Loading CommandRepeater v1.0.1
+2015-02-12 15:09:06 [INFO] Loading DevTools v1.9.0
+2015-02-12 15:09:06 [INFO] Loading EssentialsPE v1.1.0
+2015-02-12 15:09:06 [INFO] Loading PaintMyLawn v1.2.0
+2015-02-12 15:09:06 [INFO] Loading RealTime v2.1
+2015-02-12 15:09:06 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-02-12 15:09:08 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-02-12 15:09:08 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-02-12 15:09:08 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-02-12 15:09:08 [INFO] ----- -------------------------- -----
+2015-02-12 15:09:08 [INFO] Enabling DevTools v1.9.0
+2015-02-12 15:09:08 [INFO] [DevTools] Registered folder plugin loader
+2015-02-12 15:09:08 [INFO] Preparing level "world"
+2015-02-12 15:09:08 [INFO] Enabling CommandRepeater v1.0.1
+2015-02-12 15:09:08 [INFO] Enabling EssentialsPE v1.1.0
+2015-02-12 15:09:08 [INFO] [EssentialsPE] Loading...
+2015-02-12 15:09:08 [INFO] Enabling PaintMyLawn v1.2.0
+2015-02-12 15:09:08 [INFO] Enabling RealTime v2.1
+2015-02-12 15:09:08 [INFO] [RealTime] RealTime enabled.
+2015-02-12 15:09:08 [INFO] [RealTime] [RealTime] It is 15 (20h is same as 8pm)
+2015-02-12 15:09:08 [INFO] [RealTime] 6000
+2015-02-12 15:09:08 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-12 15:09:08 [INFO] Starting GS4 status listener
+2015-02-12 15:09:08 [INFO] Setting query port to 19132
+2015-02-12 15:09:08 [INFO] Query running on 0.0.0.0:19132
+2015-02-12 15:09:09 [INFO] Default game type: SURVIVAL
+2015-02-12 15:09:09 [INFO] Done (3.306s)! For help, type "help" or "?"
+2015-02-12 15:09:09 [INFO] [RealTime] It is 15:09
+2015-02-12 15:09:58 [INFO] cheapjack[/192.168.0.9:48838] logged in with entity id 1 at (world, 114.7492, 16, 135.9003)
+2015-02-12 15:09:59 [INFO] cheapjack joined the game
+2015-02-12 15:10:07 [INFO] CONSOLE: Set time to 0
+2015-02-12 15:12:42 [INFO] cheapjack left the game
+2015-02-12 15:12:42 [INFO] cheapjack[/192.168.0.9:48838] logged out due to timeout
+2015-02-12 15:14:09 [INFO] [RealTime] It is 15:14
+2015-02-12 15:16:35 [INFO] cheapjack[/192.168.0.9:35547] logged in with entity id 2 at (world, 115.1972, 16, 141.7291)
+2015-02-12 15:16:35 [INFO] cheapjack joined the game
+2015-02-12 15:17:27 [INFO] cheapjack left the game
+2015-02-12 15:17:27 [INFO] cheapjack[/192.168.0.9:35547] logged out due to timeout
+2015-02-12 15:19:06 [INFO] cheapjack[/192.168.0.9:52152] logged in with entity id 3 at (world, 113.7412, 16, 143.3425)
+2015-02-12 15:19:07 [INFO] cheapjack joined the game
+2015-02-12 15:19:09 [INFO] [RealTime] It is 15:19
+2015-02-12 15:19:25 [INFO] cheapjack: Gave cheapjack 64 of Bricks (45:0)
+2015-02-12 15:19:43 [INFO] cheapjack: Set time to 0
+2015-02-12 15:23:42 [INFO] cheapjack left the game
+2015-02-12 15:23:42 [INFO] cheapjack[/192.168.0.9:52152] logged out due to timeout
+2015-02-12 15:24:09 [INFO] [RealTime] It is 15:24
+2015-02-12 15:29:09 [INFO] [RealTime] It is 15:29
+2015-02-12 15:31:52 [INFO] cheapjack[/192.168.0.9:40151] logged in with entity id 4 at (world, 113.9138, 16, 142.5343)
+2015-02-12 15:31:53 [INFO] cheapjack joined the game
+2015-02-12 15:32:00 [INFO] CONSOLE: Set time to 0
+2015-02-12 15:34:16 [INFO] CONSOLE: Set cheapjack's gamemode to creative mode
+2015-02-12 15:34:26 [INFO] cheapjack left the game
+2015-02-12 15:34:26 [INFO] cheapjack[/192.168.0.9:40151] logged out due to timeout
+2015-02-12 15:34:34 [INFO] cheapjack[/192.168.0.9:57076] logged in with entity id 5 at (world, 113.1031, 17, 145.5545)
+2015-02-12 15:34:35 [INFO] cheapjack joined the game
+2015-02-12 15:35:11 [INFO] [RealTime] It is 15:35
+2015-02-12 15:40:11 [INFO] [RealTime] It is 15:40
+2015-02-12 15:40:44 [INFO] CONSOLE: Set time to 0
+2015-02-12 15:45:11 [INFO] [RealTime] It is 15:45
+2015-02-12 15:47:55 [CRITICAL] Unhandled exception executing command '/paste building g a' in worldeditart: Unexpected end of file
+2015-02-12 15:47:55 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-12 15:49:46 [CRITICAL] Unhandled exception executing command '/paste building g a' in worldeditart: Unexpected end of file
+2015-02-12 15:49:46 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-12 15:50:00 [INFO] CONSOLE: Set time to 0
+2015-02-12 15:50:11 [INFO] [RealTime] It is 15:50
+2015-02-12 15:51:32 [CRITICAL] Unhandled exception executing command '/paste building g' in worldeditart: Unexpected end of file
+2015-02-12 15:51:32 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-12 15:55:11 [INFO] [RealTime] It is 15:55
+2015-02-12 15:55:11 [INFO] CONSOLE: Stopping the server...
+2015-02-12 15:55:11 [INFO] Disabling CommandRepeater v1.0.1
+2015-02-12 15:55:11 [INFO] Disabling DevTools v1.9.0
+2015-02-12 15:55:11 [INFO] Disabling EssentialsPE v1.1.0
+2015-02-12 15:55:11 [INFO] Disabling PaintMyLawn v1.2.0
+2015-02-12 15:55:11 [INFO] Disabling RealTime v2.1
+2015-02-12 15:55:11 [INFO] [RealTime] RealTime disabled.
+2015-02-12 15:55:11 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-12 15:55:11 [INFO] cheapjack has left the game
+2015-02-12 15:55:11 [INFO] cheapjack[/192.168.0.9:57076] logged out due to Server closed
+2015-02-12 15:55:11 [INFO] Unloading level "world"
+2015-02-12 15:55:11 [INFO] Stopping other threads
+2015-02-17 21:06:08 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-02-17 21:06:08 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-02-17 21:06:08 [INFO] Loading pocketmine.yml...
+2015-02-17 21:06:08 [INFO] Loading server properties...
+2015-02-17 21:06:08 [INFO] Starting remote control listener
+2015-02-17 21:06:08 [INFO] RCON running on 0.0.0.0:19132
+2015-02-17 21:06:08 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-02-17 21:06:08 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-02-17 21:06:08 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-02-17 21:06:08 [INFO] Loading CommandRepeater v1.0.1
+2015-02-17 21:06:08 [INFO] Loading DevTools v1.9.0
+2015-02-17 21:06:08 [INFO] Loading EssentialsPE v1.1.0
+2015-02-17 21:06:08 [INFO] Loading PaintMyLawn v1.2.0
+2015-02-17 21:06:08 [INFO] Loading RealTime v2.1
+2015-02-17 21:06:08 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:06:09 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-02-17 21:06:09 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-02-17 21:06:09 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-02-17 21:06:09 [INFO] ----- -------------------------- -----
+2015-02-17 21:06:09 [INFO] Enabling DevTools v1.9.0
+2015-02-17 21:06:09 [INFO] [DevTools] Registered folder plugin loader
+2015-02-17 21:06:09 [INFO] Preparing level "world"
+2015-02-17 21:06:09 [INFO] Enabling CommandRepeater v1.0.1
+2015-02-17 21:06:09 [INFO] Enabling EssentialsPE v1.1.0
+2015-02-17 21:06:09 [INFO] [EssentialsPE] Loading...
+2015-02-17 21:06:09 [INFO] Enabling PaintMyLawn v1.2.0
+2015-02-17 21:06:09 [INFO] Enabling RealTime v2.1
+2015-02-17 21:06:09 [INFO] [RealTime] RealTime enabled.
+2015-02-17 21:06:09 [INFO] [RealTime] [RealTime] It is 21 (20h is same as 8pm)
+2015-02-17 21:06:09 [INFO] [RealTime] 6000
+2015-02-17 21:06:09 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:06:10 [INFO] Starting GS4 status listener
+2015-02-17 21:06:10 [INFO] Setting query port to 19132
+2015-02-17 21:06:10 [INFO] Query running on 0.0.0.0:19132
+2015-02-17 21:06:10 [INFO] Default game type: SURVIVAL
+2015-02-17 21:06:10 [INFO] Done (2.468s)! For help, type "help" or "?"
+2015-02-17 21:06:10 [INFO] [RealTime] It is 21:06
+2015-02-17 21:07:45 [INFO] cheapjack[/192.168.0.9:48790] logged in with entity id 1 at (world, 158.9547, 26.7488, 172.8357)
+2015-02-17 21:07:46 [INFO] cheapjack joined the game
+2015-02-17 21:11:10 [INFO] [RealTime] It is 21:11
+2015-02-17 21:16:10 [INFO] [RealTime] It is 21:16
+2015-02-17 21:21:20 [INFO] [RealTime] It is 21:21
+2015-02-17 21:21:51 [CRITICAL] Unhandled exception executing command '/paste frontage g' in worldeditart: Unexpected end of file
+2015-02-17 21:21:51 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-17 21:22:58 [CRITICAL] Unhandled exception executing command '/paste frontage g' in worldeditart: Unexpected end of file
+2015-02-17 21:22:58 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-17 21:24:29 [CRITICAL] Unhandled exception executing command '/paste frontage g a' in worldeditart: Unexpected end of file
+2015-02-17 21:24:29 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-17 21:24:44 [INFO] CONSOLE: Stopping the server...
+2015-02-17 21:24:45 [INFO] Disabling CommandRepeater v1.0.1
+2015-02-17 21:24:45 [INFO] Disabling DevTools v1.9.0
+2015-02-17 21:24:45 [INFO] Disabling EssentialsPE v1.1.0
+2015-02-17 21:24:45 [INFO] Disabling PaintMyLawn v1.2.0
+2015-02-17 21:24:45 [INFO] Disabling RealTime v2.1
+2015-02-17 21:24:45 [INFO] [RealTime] RealTime disabled.
+2015-02-17 21:24:45 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:24:45 [INFO] cheapjack has left the game
+2015-02-17 21:24:45 [INFO] cheapjack[/192.168.0.9:48790] logged out due to Server closed
+2015-02-17 21:24:45 [INFO] Unloading level "world"
+2015-02-17 21:24:45 [INFO] Stopping other threads
+2015-02-17 21:25:43 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-02-17 21:25:43 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-02-17 21:25:43 [INFO] Loading pocketmine.yml...
+2015-02-17 21:25:43 [INFO] Loading server properties...
+2015-02-17 21:25:43 [INFO] Starting remote control listener
+2015-02-17 21:25:43 [INFO] RCON running on 0.0.0.0:19132
+2015-02-17 21:25:43 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-02-17 21:25:44 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-02-17 21:25:44 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-02-17 21:25:44 [INFO] Loading CommandRepeater v1.0.1
+2015-02-17 21:25:44 [INFO] Loading DevTools v1.9.0
+2015-02-17 21:25:44 [INFO] Loading EssentialsPE v1.1.0
+2015-02-17 21:25:44 [INFO] Loading PaintMyLawn v1.2.0
+2015-02-17 21:25:44 [INFO] Loading RealTime v2.1
+2015-02-17 21:25:44 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:25:45 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-02-17 21:25:45 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-02-17 21:25:45 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-02-17 21:25:45 [INFO] ----- -------------------------- -----
+2015-02-17 21:25:45 [INFO] Enabling DevTools v1.9.0
+2015-02-17 21:25:45 [INFO] [DevTools] Registered folder plugin loader
+2015-02-17 21:25:45 [INFO] Preparing level "world"
+2015-02-17 21:25:45 [INFO] Enabling CommandRepeater v1.0.1
+2015-02-17 21:25:45 [INFO] Enabling EssentialsPE v1.1.0
+2015-02-17 21:25:45 [INFO] [EssentialsPE] Loading...
+2015-02-17 21:25:45 [INFO] Enabling PaintMyLawn v1.2.0
+2015-02-17 21:25:45 [INFO] Enabling RealTime v2.1
+2015-02-17 21:25:45 [INFO] [RealTime] RealTime enabled.
+2015-02-17 21:25:45 [INFO] [RealTime] [RealTime] It is 21 (20h is same as 8pm)
+2015-02-17 21:25:45 [INFO] [RealTime] 6000
+2015-02-17 21:25:45 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:25:45 [INFO] Starting GS4 status listener
+2015-02-17 21:25:45 [INFO] Setting query port to 19132
+2015-02-17 21:25:45 [INFO] Query running on 0.0.0.0:19132
+2015-02-17 21:25:46 [INFO] Default game type: SURVIVAL
+2015-02-17 21:25:46 [INFO] Done (2.119s)! For help, type "help" or "?"
+2015-02-17 21:25:46 [INFO] [RealTime] It is 21:25
+2015-02-17 21:25:49 [INFO] cheapjack[/192.168.0.9:58708] logged in with entity id 1 at (world, 157.734, 4, 134.357)
+2015-02-17 21:25:49 [INFO] cheapjack joined the game
+2015-02-17 21:29:40 [CRITICAL] Unhandled exception executing command '/paste frontage g' in worldeditart: Unexpected end of file
+2015-02-17 21:29:40 [CRITICAL] Exception: "Unexpected end of file" (EXCEPTION) in "/WorldEditArt_dev_build-2.phar/src/pemapmodder/worldeditart/utils/StringReader" at line 22
+2015-02-17 21:30:09 [INFO] CONSOLE: Stopping the server...
+2015-02-17 21:30:09 [INFO] Disabling CommandRepeater v1.0.1
+2015-02-17 21:30:09 [INFO] Disabling DevTools v1.9.0
+2015-02-17 21:30:09 [INFO] Disabling EssentialsPE v1.1.0
+2015-02-17 21:30:09 [INFO] Disabling PaintMyLawn v1.2.0
+2015-02-17 21:30:09 [INFO] Disabling RealTime v2.1
+2015-02-17 21:30:09 [INFO] [RealTime] RealTime disabled.
+2015-02-17 21:30:09 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:30:09 [INFO] cheapjack has left the game
+2015-02-17 21:30:09 [INFO] cheapjack[/192.168.0.9:58708] logged out due to Server closed
+2015-02-17 21:30:09 [INFO] Unloading level "world"
+2015-02-17 21:30:09 [INFO] Stopping other threads
+2015-02-17 21:30:14 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-02-17 21:30:14 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-02-17 21:30:14 [INFO] Loading pocketmine.yml...
+2015-02-17 21:30:14 [INFO] Loading server properties...
+2015-02-17 21:30:14 [INFO] Starting remote control listener
+2015-02-17 21:30:14 [INFO] RCON running on 0.0.0.0:19132
+2015-02-17 21:30:14 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-02-17 21:30:14 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-02-17 21:30:14 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-02-17 21:30:14 [INFO] Loading CommandRepeater v1.0.1
+2015-02-17 21:30:14 [INFO] Loading DevTools v1.9.0
+2015-02-17 21:30:14 [INFO] Loading EssentialsPE v1.1.0
+2015-02-17 21:30:14 [INFO] Loading PaintMyLawn v1.2.0
+2015-02-17 21:30:14 [INFO] Loading RealTime v2.1
+2015-02-17 21:30:14 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:30:14 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-02-17 21:30:14 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-02-17 21:30:14 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-02-17 21:30:14 [INFO] ----- -------------------------- -----
+2015-02-17 21:30:14 [INFO] Enabling DevTools v1.9.0
+2015-02-17 21:30:14 [INFO] [DevTools] Registered folder plugin loader
+2015-02-17 21:30:15 [INFO] Preparing level "world"
+2015-02-17 21:30:15 [INFO] Enabling CommandRepeater v1.0.1
+2015-02-17 21:30:15 [INFO] Enabling EssentialsPE v1.1.0
+2015-02-17 21:30:15 [INFO] [EssentialsPE] Loading...
+2015-02-17 21:30:15 [INFO] Enabling PaintMyLawn v1.2.0
+2015-02-17 21:30:15 [INFO] Enabling RealTime v2.1
+2015-02-17 21:30:15 [INFO] [RealTime] RealTime enabled.
+2015-02-17 21:30:15 [INFO] [RealTime] [RealTime] It is 21 (20h is same as 8pm)
+2015-02-17 21:30:15 [INFO] [RealTime] 6000
+2015-02-17 21:30:15 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 21:30:15 [INFO] Starting GS4 status listener
+2015-02-17 21:30:15 [INFO] Setting query port to 19132
+2015-02-17 21:30:15 [INFO] Query running on 0.0.0.0:19132
+2015-02-17 21:30:15 [INFO] Default game type: SURVIVAL
+2015-02-17 21:30:15 [INFO] Done (1.408s)! For help, type "help" or "?"
+2015-02-17 21:30:15 [INFO] [RealTime] It is 21:30
+2015-02-17 21:30:27 [INFO] Unknown command. Type "help" for help.
+2015-02-17 21:30:33 [INFO] You either have to select an anchor / make a selection first, don't have permission to do this, or you have to run this command in-game/on-console.
+2015-02-17 21:30:50 [INFO] cheapjack[/192.168.0.9:41388] logged in with entity id 1 at (world, 157.4047, 4, 133.5483)
+2015-02-17 21:30:50 [INFO] cheapjack joined the game
+2015-02-17 21:31:26 [INFO] You either have to select an anchor / make a selection first, don't have permission to do this, or you have to run this command in-game/on-console.
+2015-02-17 21:31:34 [INFO] You either have to select an anchor / make a selection first, don't have permission to do this, or you have to run this command in-game/on-console.
+2015-02-17 21:32:22 [INFO] You either have to select an anchor / make a selection first, don't have permission to do this, or you have to run this command in-game/on-console.
+2015-02-17 21:32:30 [INFO] You either have to select an anchor / make a selection first, don't have permission to do this, or you have to run this command in-game/on-console.
+2015-02-17 21:35:15 [INFO] [RealTime] It is 21:35
+2015-02-17 21:40:15 [INFO] [RealTime] It is 21:40
+2015-02-17 21:45:15 [INFO] [RealTime] It is 21:45
+2015-02-17 21:47:15 [INFO] Unknown command. Type "help" for help.
+2015-02-17 21:47:18 [INFO] Unknown command. Type "help" for help.
+2015-02-17 21:49:38 [INFO] Unknown command. Type "help" for help.
+2015-02-17 21:50:02 [INFO] Unknown command. Type "help" for help.
+2015-02-17 21:50:15 [INFO] [RealTime] It is 21:50
+2015-02-17 21:50:19 [INFO] [Server] hello
+2015-02-17 21:51:00 [INFO] Unknown command. Type "help" for help.
+2015-02-17 21:55:15 [INFO] [RealTime] It is 21:55
+2015-02-17 22:00:15 [INFO] [RealTime] It is 22:00
+2015-02-17 22:05:15 [INFO] [RealTime] It is 22:05
+2015-02-17 22:09:35 [INFO] cheapjack left the game
+2015-02-17 22:09:35 [INFO] cheapjack[/192.168.0.9:41388] logged out due to timeout
+2015-02-17 22:12:15 [INFO] [RealTime] It is 22:12
+2015-02-17 22:17:15 [INFO] [RealTime] It is 22:17
+2015-02-17 22:22:15 [INFO] [RealTime] It is 22:22
+2015-02-17 22:27:15 [INFO] [RealTime] It is 22:27
+2015-02-17 22:32:15 [INFO] [RealTime] It is 22:32
+2015-02-17 22:37:15 [INFO] [RealTime] It is 22:37
+2015-02-17 22:42:15 [INFO] [RealTime] It is 22:42
+2015-02-17 22:47:15 [INFO] [RealTime] It is 22:47
+2015-02-17 22:51:05 [INFO] CONSOLE: Stopping the server...
+2015-02-17 22:51:05 [INFO] Disabling CommandRepeater v1.0.1
+2015-02-17 22:51:05 [INFO] Disabling DevTools v1.9.0
+2015-02-17 22:51:05 [INFO] Disabling EssentialsPE v1.1.0
+2015-02-17 22:51:05 [INFO] Disabling PaintMyLawn v1.2.0
+2015-02-17 22:51:05 [INFO] Disabling RealTime v2.1
+2015-02-17 22:51:05 [INFO] [RealTime] RealTime disabled.
+2015-02-17 22:51:05 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 22:51:05 [INFO] Unloading level "world"
+2015-02-17 22:51:05 [INFO] Stopping other threads
+2015-02-17 22:57:02 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-02-17 22:57:02 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-02-17 22:57:02 [INFO] Loading pocketmine.yml...
+2015-02-17 22:57:02 [INFO] Loading server properties...
+2015-02-17 22:57:02 [INFO] Starting remote control listener
+2015-02-17 22:57:02 [INFO] RCON running on 0.0.0.0:19132
+2015-02-17 22:57:02 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-02-17 22:57:02 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-02-17 22:57:02 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-02-17 22:57:03 [INFO] Loading CommandRepeater v1.0.1
+2015-02-17 22:57:03 [INFO] Loading DevTools v1.9.0
+2015-02-17 22:57:03 [INFO] Loading EssentialsPE v1.1.0
+2015-02-17 22:57:03 [INFO] Loading PaintMyLawn v1.2.0
+2015-02-17 22:57:03 [INFO] Loading RealTime v2.1
+2015-02-17 22:57:03 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 22:57:04 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-02-17 22:57:04 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-02-17 22:57:04 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-02-17 22:57:04 [INFO] ----- -------------------------- -----
+2015-02-17 22:57:04 [INFO] Enabling DevTools v1.9.0
+2015-02-17 22:57:04 [INFO] Loading source plugin ExamplePlugin v1.0.0
+2015-02-17 22:57:04 [INFO] [ExamplePlugin] I've been loaded!
+2015-02-17 22:57:04 [INFO] [DevTools] Registered folder plugin loader
+2015-02-17 22:57:04 [INFO] Preparing level "world"
+2015-02-17 22:57:05 [INFO] Enabling CommandRepeater v1.0.1
+2015-02-17 22:57:05 [INFO] Enabling EssentialsPE v1.1.0
+2015-02-17 22:57:05 [INFO] [EssentialsPE] Loading...
+2015-02-17 22:57:05 [INFO] Enabling PaintMyLawn v1.2.0
+2015-02-17 22:57:05 [INFO] Enabling RealTime v2.1
+2015-02-17 22:57:05 [INFO] [RealTime] RealTime enabled.
+2015-02-17 22:57:05 [INFO] [RealTime] [RealTime] It is 22 (20h is same as 8pm)
+2015-02-17 22:57:05 [INFO] [RealTime] 6000
+2015-02-17 22:57:05 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 22:57:05 [INFO] Enabling ExamplePlugin v1.0.0
+2015-02-17 22:57:05 [INFO] [ExamplePlugin] I've been enabled!
+2015-02-17 22:57:05 [INFO] Starting GS4 status listener
+2015-02-17 22:57:05 [INFO] Setting query port to 19132
+2015-02-17 22:57:05 [INFO] Query running on 0.0.0.0:19132
+2015-02-17 22:57:05 [INFO] Default game type: SURVIVAL
+2015-02-17 22:57:05 [INFO] Done (3.134s)! For help, type "help" or "?"
+2015-02-17 22:57:05 [INFO] [ExamplePlugin] I've run on tick 1
+2015-02-17 22:57:05 [INFO] [RealTime] It is 22:57
+2015-02-17 22:57:11 [INFO] [ExamplePlugin] I've run on tick 121
+2015-02-17 22:57:17 [INFO] [ExamplePlugin] I've run on tick 241
+2015-02-17 22:57:23 [INFO] [ExamplePlugin] I've run on tick 361
+2015-02-17 22:57:29 [INFO] [ExamplePlugin] I've run on tick 481
+2015-02-17 22:57:35 [INFO] [ExamplePlugin] I've run on tick 601
+2015-02-17 22:57:41 [INFO] [ExamplePlugin] I've run on tick 721
+2015-02-17 22:57:47 [INFO] [ExamplePlugin] I've run on tick 841
+2015-02-17 22:57:53 [INFO] [ExamplePlugin] I've run on tick 961
+2015-02-17 22:57:59 [INFO] [ExamplePlugin] I've run on tick 1081
+2015-02-17 22:58:05 [INFO] [ExamplePlugin] I've run on tick 1201
+2015-02-17 22:58:11 [INFO] [ExamplePlugin] I've run on tick 1321
+2015-02-17 22:58:17 [INFO] [ExamplePlugin] I've run on tick 1441
+2015-02-17 22:58:23 [INFO] [ExamplePlugin] I've run on tick 1561
+2015-02-17 22:58:29 [INFO] [ExamplePlugin] I've run on tick 1681
+2015-02-17 22:58:35 [INFO] [ExamplePlugin] I've run on tick 1801
+2015-02-17 22:58:41 [INFO] [ExamplePlugin] I've run on tick 1921
+2015-02-17 22:58:47 [INFO] [ExamplePlugin] I've run on tick 2041
+2015-02-17 22:58:53 [INFO] [ExamplePlugin] I've run on tick 2161
+2015-02-17 22:58:59 [INFO] [ExamplePlugin] I've run on tick 2281
+2015-02-17 22:59:05 [INFO] [ExamplePlugin] I've run on tick 2401
+2015-02-17 22:59:11 [INFO] [ExamplePlugin] I've run on tick 2521
+2015-02-17 22:59:17 [INFO] [ExamplePlugin] I've run on tick 2641
+2015-02-17 22:59:23 [INFO] [ExamplePlugin] I've run on tick 2761
+2015-02-17 22:59:29 [INFO] [ExamplePlugin] I've run on tick 2881
+2015-02-17 22:59:35 [INFO] [ExamplePlugin] I've run on tick 3001
+2015-02-17 22:59:41 [INFO] [ExamplePlugin] I've run on tick 3121
+2015-02-17 22:59:47 [INFO] [ExamplePlugin] I've run on tick 3241
+2015-02-17 22:59:53 [INFO] [ExamplePlugin] I've run on tick 3361
+2015-02-17 22:59:59 [INFO] [ExamplePlugin] I've run on tick 3481
+2015-02-17 23:00:05 [INFO] [ExamplePlugin] I've run on tick 3601
+2015-02-17 23:00:11 [INFO] [ExamplePlugin] I've run on tick 3721
+2015-02-17 23:00:17 [INFO] [ExamplePlugin] I've run on tick 3841
+2015-02-17 23:00:23 [INFO] [ExamplePlugin] I've run on tick 3961
+2015-02-17 23:00:29 [INFO] [ExamplePlugin] I've run on tick 4081
+2015-02-17 23:00:35 [INFO] [ExamplePlugin] I've run on tick 4201
+2015-02-17 23:00:41 [INFO] [ExamplePlugin] I've run on tick 4321
+2015-02-17 23:00:47 [INFO] [ExamplePlugin] I've run on tick 4441
+2015-02-17 23:00:53 [INFO] [ExamplePlugin] I've run on tick 4561
+2015-02-17 23:00:59 [INFO] [ExamplePlugin] I've run on tick 4681
+2015-02-17 23:01:05 [INFO] [ExamplePlugin] I've run on tick 4801
+2015-02-17 23:01:11 [INFO] [ExamplePlugin] I've run on tick 4921
+2015-02-17 23:01:17 [INFO] [ExamplePlugin] I've run on tick 5041
+2015-02-17 23:01:23 [INFO] [ExamplePlugin] I've run on tick 5161
+2015-02-17 23:01:29 [INFO] [ExamplePlugin] I've run on tick 5281
+2015-02-17 23:01:35 [INFO] [ExamplePlugin] I've run on tick 5401
+2015-02-17 23:01:41 [INFO] [ExamplePlugin] I've run on tick 5521
+2015-02-17 23:01:47 [INFO] [ExamplePlugin] I've run on tick 5641
+2015-02-17 23:01:53 [INFO] [ExamplePlugin] I've run on tick 5761
+2015-02-17 23:01:59 [INFO] [ExamplePlugin] I've run on tick 5881
+2015-02-17 23:02:05 [INFO] [ExamplePlugin] I've run on tick 6001
+2015-02-17 23:02:05 [INFO] [RealTime] It is 23:02
+2015-02-17 23:02:11 [INFO] [ExamplePlugin] I've run on tick 6121
+2015-02-17 23:02:17 [INFO] [ExamplePlugin] I've run on tick 6241
+2015-02-17 23:02:23 [INFO] [ExamplePlugin] I've run on tick 6361
+2015-02-17 23:02:29 [INFO] [ExamplePlugin] I've run on tick 6481
+2015-02-17 23:02:35 [INFO] [ExamplePlugin] I've run on tick 6601
+2015-02-17 23:02:41 [INFO] [ExamplePlugin] I've run on tick 6721
+2015-02-17 23:02:47 [INFO] [ExamplePlugin] I've run on tick 6841
+2015-02-17 23:02:53 [INFO] [ExamplePlugin] I've run on tick 6961
+2015-02-17 23:02:59 [INFO] [ExamplePlugin] I've run on tick 7081
+2015-02-17 23:03:05 [INFO] [ExamplePlugin] I've run on tick 7201
+2015-02-17 23:03:11 [INFO] [ExamplePlugin] I've run on tick 7321
+2015-02-17 23:03:17 [INFO] [ExamplePlugin] I've run on tick 7441
+2015-02-17 23:03:23 [INFO] [ExamplePlugin] I've run on tick 7561
+2015-02-17 23:03:29 [INFO] [ExamplePlugin] I've run on tick 7681
+2015-02-17 23:03:35 [INFO] [ExamplePlugin] I've run on tick 7801
+2015-02-17 23:03:41 [INFO] [ExamplePlugin] I've run on tick 7921
+2015-02-17 23:03:47 [INFO] [ExamplePlugin] I've run on tick 8041
+2015-02-17 23:03:53 [INFO] [ExamplePlugin] I've run on tick 8161
+2015-02-17 23:03:59 [INFO] [ExamplePlugin] I've run on tick 8281
+2015-02-17 23:04:05 [INFO] [ExamplePlugin] I've run on tick 8401
+2015-02-17 23:04:11 [INFO] [ExamplePlugin] I've run on tick 8521
+2015-02-17 23:04:17 [INFO] [ExamplePlugin] I've run on tick 8641
+2015-02-17 23:04:23 [INFO] [ExamplePlugin] I've run on tick 8761
+2015-02-17 23:04:29 [INFO] [ExamplePlugin] I've run on tick 8881
+2015-02-17 23:04:35 [INFO] [ExamplePlugin] I've run on tick 9001
+2015-02-17 23:04:41 [INFO] [ExamplePlugin] I've run on tick 9121
+2015-02-17 23:04:47 [INFO] [ExamplePlugin] I've run on tick 9241
+2015-02-17 23:04:53 [INFO] [ExamplePlugin] I've run on tick 9361
+2015-02-17 23:04:59 [INFO] [ExamplePlugin] I've run on tick 9481
+2015-02-17 23:05:05 [INFO] [ExamplePlugin] I've run on tick 9601
+2015-02-17 23:05:11 [INFO] [ExamplePlugin] I've run on tick 9721
+2015-02-17 23:05:17 [INFO] [ExamplePlugin] I've run on tick 9841
+2015-02-17 23:05:23 [INFO] [ExamplePlugin] I've run on tick 9961
+2015-02-17 23:05:29 [INFO] [ExamplePlugin] I've run on tick 10081
+2015-02-17 23:05:35 [INFO] [ExamplePlugin] I've run on tick 10201
+2015-02-17 23:05:41 [INFO] [ExamplePlugin] I've run on tick 10321
+2015-02-17 23:05:47 [INFO] [ExamplePlugin] I've run on tick 10441
+2015-02-17 23:05:53 [INFO] [ExamplePlugin] I've run on tick 10561
+2015-02-17 23:05:59 [INFO] [ExamplePlugin] I've run on tick 10681
+2015-02-17 23:06:05 [INFO] [ExamplePlugin] I've run on tick 10801
+2015-02-17 23:06:11 [INFO] [ExamplePlugin] I've run on tick 10921
+2015-02-17 23:06:17 [INFO] [ExamplePlugin] I've run on tick 11041
+2015-02-17 23:06:23 [INFO] [ExamplePlugin] I've run on tick 11161
+2015-02-17 23:06:29 [INFO] [ExamplePlugin] I've run on tick 11281
+2015-02-17 23:06:35 [INFO] [ExamplePlugin] I've run on tick 11401
+2015-02-17 23:06:39 [INFO] CONSOLE: Stopping the server...
+2015-02-17 23:06:39 [INFO] Disabling CommandRepeater v1.0.1
+2015-02-17 23:06:39 [INFO] Disabling DevTools v1.9.0
+2015-02-17 23:06:39 [INFO] Disabling EssentialsPE v1.1.0
+2015-02-17 23:06:39 [INFO] Disabling PaintMyLawn v1.2.0
+2015-02-17 23:06:39 [INFO] Disabling RealTime v2.1
+2015-02-17 23:06:39 [INFO] [RealTime] RealTime disabled.
+2015-02-17 23:06:39 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 23:06:39 [INFO] Disabling ExamplePlugin v1.0.0
+2015-02-17 23:06:39 [INFO] [ExamplePlugin] I've been disabled!
+2015-02-17 23:06:39 [INFO] Unloading level "world"
+2015-02-17 23:06:39 [INFO] Stopping other threads
+2015-02-17 23:09:44 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2015-02-17 23:09:44 [INFO] Starting Minecraft: PE server version v0.10.4 alpha
+2015-02-17 23:09:44 [INFO] Loading pocketmine.yml...
+2015-02-17 23:09:44 [INFO] Loading server properties...
+2015-02-17 23:09:44 [INFO] Starting remote control listener
+2015-02-17 23:09:44 [INFO] RCON running on 0.0.0.0:19132
+2015-02-17 23:09:44 [INFO] Starting Minecraft PE server on 0.0.0.0:19132
+2015-02-17 23:09:44 [INFO] This server is running PocketMine-MP version 1.4-916 "絶好(Zekkou)ケーキ(Cake)" (API 1.10.0)
+2015-02-17 23:09:44 [INFO] PocketMine-MP is distributed under the LGPL License
+2015-02-17 23:09:44 [INFO] Loading CommandRepeater v1.0.1
+2015-02-17 23:09:44 [INFO] Loading DevTools v1.9.0
+2015-02-17 23:09:44 [INFO] Loading EssentialsPE v1.1.0
+2015-02-17 23:09:44 [INFO] Loading PaintMyLawn v1.2.0
+2015-02-17 23:09:44 [INFO] Loading RealTime v2.1
+2015-02-17 23:09:44 [INFO] Loading WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 23:09:45 [INFO] ----- PocketMine-MP Auto Updater -----
+2015-02-17 23:09:45 [INFO] It appears you're running a Beta build, when you've specified that you prefer to run Stable builds.
+2015-02-17 23:09:45 [INFO] If you would like to be kept informed about new Beta or Development builds, it is recommended that you change 'preferred-channel' in your pocketmine.yml to 'beta' or 'development'.
+2015-02-17 23:09:45 [INFO] ----- -------------------------- -----
+2015-02-17 23:09:45 [INFO] Enabling DevTools v1.9.0
+2015-02-17 23:09:45 [INFO] Loading source plugin ExamplePlugin v1.0.0
+2015-02-17 23:09:45 [INFO] [ExamplePlugin] I've been loaded!
+2015-02-17 23:09:45 [INFO] [DevTools] Registered folder plugin loader
+2015-02-17 23:09:45 [INFO] Preparing level "world"
+2015-02-17 23:09:45 [INFO] Enabling CommandRepeater v1.0.1
+2015-02-17 23:09:45 [INFO] Enabling EssentialsPE v1.1.0
+2015-02-17 23:09:45 [INFO] [EssentialsPE] Loading...
+2015-02-17 23:09:45 [INFO] Enabling PaintMyLawn v1.2.0
+2015-02-17 23:09:45 [INFO] Enabling RealTime v2.1
+2015-02-17 23:09:45 [INFO] [RealTime] RealTime enabled.
+2015-02-17 23:09:45 [INFO] [RealTime] [RealTime] It is 23 (20h is same as 8pm)
+2015-02-17 23:09:45 [INFO] [RealTime] 6000
+2015-02-17 23:09:45 [INFO] Enabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 23:09:45 [INFO] Enabling ExamplePlugin v1.0.0
+2015-02-17 23:09:45 [INFO] [ExamplePlugin] I've been enabled!
+2015-02-17 23:09:45 [INFO] Starting GS4 status listener
+2015-02-17 23:09:45 [INFO] Setting query port to 19132
+2015-02-17 23:09:45 [INFO] Query running on 0.0.0.0:19132
+2015-02-17 23:09:46 [INFO] Default game type: SURVIVAL
+2015-02-17 23:09:46 [INFO] Done (1.791s)! For help, type "help" or "?"
+2015-02-17 23:09:46 [INFO] [ExamplePlugin] I've run on tick 1
+2015-02-17 23:09:46 [INFO] [RealTime] It is 23:09
+2015-02-17 23:09:52 [INFO] [ExamplePlugin] I've run on tick 121
+2015-02-17 23:09:58 [INFO] [ExamplePlugin] I've run on tick 241
+2015-02-17 23:10:04 [INFO] [ExamplePlugin] I've run on tick 361
+2015-02-17 23:10:10 [INFO] [ExamplePlugin] I've run on tick 481
+2015-02-17 23:10:16 [INFO] [ExamplePlugin] I've run on tick 601
+2015-02-17 23:10:22 [INFO] [ExamplePlugin] I've run on tick 721
+2015-02-17 23:10:28 [INFO] [ExamplePlugin] I've run on tick 841
+2015-02-17 23:10:34 [INFO] [ExamplePlugin] I've run on tick 961
+2015-02-17 23:10:40 [INFO] [ExamplePlugin] I've run on tick 1081
+2015-02-17 23:10:46 [INFO] [ExamplePlugin] I've run on tick 1201
+2015-02-17 23:10:52 [INFO] [ExamplePlugin] I've run on tick 1321
+2015-02-17 23:10:58 [INFO] [ExamplePlugin] I've run on tick 1441
+2015-02-17 23:11:04 [INFO] [ExamplePlugin] I've run on tick 1561
+2015-02-17 23:11:10 [INFO] [ExamplePlugin] I've run on tick 1681
+2015-02-17 23:11:16 [INFO] [ExamplePlugin] I've run on tick 1801
+2015-02-17 23:11:22 [INFO] [ExamplePlugin] I've run on tick 1921
+2015-02-17 23:11:28 [INFO] [ExamplePlugin] I've run on tick 2041
+2015-02-17 23:11:34 [INFO] [ExamplePlugin] I've run on tick 2161
+2015-02-17 23:11:40 [INFO] [ExamplePlugin] I've run on tick 2281
+2015-02-17 23:11:46 [INFO] [ExamplePlugin] I've run on tick 2401
+2015-02-17 23:11:52 [INFO] [ExamplePlugin] I've run on tick 2521
+2015-02-17 23:11:58 [INFO] [ExamplePlugin] I've run on tick 2641
+2015-02-17 23:12:04 [INFO] [ExamplePlugin] I've run on tick 2761
+2015-02-17 23:12:10 [INFO] [ExamplePlugin] I've run on tick 2881
+2015-02-17 23:12:16 [INFO] [ExamplePlugin] I've run on tick 3001
+2015-02-17 23:12:22 [INFO] [ExamplePlugin] I've run on tick 3121
+2015-02-17 23:12:28 [INFO] [ExamplePlugin] I've run on tick 3241
+2015-02-17 23:12:34 [INFO] [ExamplePlugin] I've run on tick 3361
+2015-02-17 23:12:40 [INFO] [ExamplePlugin] I've run on tick 3481
+2015-02-17 23:12:46 [INFO] [ExamplePlugin] I've run on tick 3601
+2015-02-17 23:12:52 [INFO] [ExamplePlugin] I've run on tick 3721
+2015-02-17 23:12:58 [INFO] [ExamplePlugin] I've run on tick 3841
+2015-02-17 23:13:04 [INFO] [ExamplePlugin] I've run on tick 3961
+2015-02-17 23:13:10 [INFO] [ExamplePlugin] I've run on tick 4081
+2015-02-17 23:13:16 [INFO] [ExamplePlugin] I've run on tick 4201
+2015-02-17 23:13:22 [INFO] [ExamplePlugin] I've run on tick 4321
+2015-02-17 23:13:28 [INFO] [ExamplePlugin] I've run on tick 4441
+2015-02-17 23:13:34 [INFO] [ExamplePlugin] I've run on tick 4561
+2015-02-17 23:13:40 [INFO] [ExamplePlugin] I've run on tick 4681
+2015-02-17 23:13:46 [INFO] [ExamplePlugin] I've run on tick 4801
+2015-02-17 23:13:52 [INFO] [ExamplePlugin] I've run on tick 4921
+2015-02-17 23:13:58 [INFO] [ExamplePlugin] I've run on tick 5041
+2015-02-17 23:14:04 [INFO] [ExamplePlugin] I've run on tick 5161
+2015-02-17 23:14:10 [INFO] [ExamplePlugin] I've run on tick 5281
+2015-02-17 23:14:16 [INFO] [ExamplePlugin] I've run on tick 5401
+2015-02-17 23:14:22 [INFO] [ExamplePlugin] I've run on tick 5521
+2015-02-17 23:14:28 [INFO] [ExamplePlugin] I've run on tick 5641
+2015-02-17 23:14:34 [INFO] [ExamplePlugin] I've run on tick 5761
+2015-02-17 23:14:40 [INFO] [ExamplePlugin] I've run on tick 5881
+2015-02-17 23:14:46 [INFO] [ExamplePlugin] I've run on tick 6001
+2015-02-17 23:14:46 [INFO] [RealTime] It is 23:14
+2015-02-17 23:14:52 [INFO] [ExamplePlugin] I've run on tick 6121
+2015-02-17 23:14:58 [INFO] [ExamplePlugin] I've run on tick 6241
+2015-02-17 23:15:04 [INFO] [ExamplePlugin] I've run on tick 6361
+2015-02-17 23:15:10 [INFO] [ExamplePlugin] I've run on tick 6481
+2015-02-17 23:15:16 [INFO] [ExamplePlugin] I've run on tick 6601
+2015-02-17 23:15:22 [INFO] [ExamplePlugin] I've run on tick 6721
+2015-02-17 23:15:28 [INFO] [ExamplePlugin] I've run on tick 6841
+2015-02-17 23:15:34 [INFO] [ExamplePlugin] I've run on tick 6961
+2015-02-17 23:15:40 [INFO] [ExamplePlugin] I've run on tick 7081
+2015-02-17 23:15:46 [INFO] [ExamplePlugin] I've run on tick 7201
+2015-02-17 23:15:52 [INFO] [ExamplePlugin] I've run on tick 7321
+2015-02-17 23:15:58 [INFO] [ExamplePlugin] I've run on tick 7441
+2015-02-17 23:16:04 [INFO] [ExamplePlugin] I've run on tick 7561
+2015-02-17 23:16:10 [INFO] [ExamplePlugin] I've run on tick 7681
+2015-02-17 23:16:16 [INFO] [ExamplePlugin] I've run on tick 7801
+2015-02-17 23:16:22 [INFO] [ExamplePlugin] I've run on tick 7921
+2015-02-17 23:16:28 [INFO] [ExamplePlugin] I've run on tick 8041
+2015-02-17 23:16:34 [INFO] [ExamplePlugin] I've run on tick 8161
+2015-02-17 23:16:40 [INFO] [ExamplePlugin] I've run on tick 8281
+2015-02-17 23:16:46 [INFO] [ExamplePlugin] I've run on tick 8401
+2015-02-17 23:16:52 [INFO] [ExamplePlugin] I've run on tick 8521
+2015-02-17 23:16:58 [INFO] [ExamplePlugin] I've run on tick 8641
+2015-02-17 23:17:04 [INFO] [ExamplePlugin] I've run on tick 8761
+2015-02-17 23:17:10 [INFO] [ExamplePlugin] I've run on tick 8881
+2015-02-17 23:17:16 [INFO] [ExamplePlugin] I've run on tick 9001
+2015-02-17 23:17:22 [INFO] [ExamplePlugin] I've run on tick 9121
+2015-02-17 23:17:28 [INFO] [ExamplePlugin] I've run on tick 9241
+2015-02-17 23:17:34 [INFO] [ExamplePlugin] I've run on tick 9361
+2015-02-17 23:17:40 [INFO] [ExamplePlugin] I've run on tick 9481
+2015-02-17 23:17:46 [INFO] [ExamplePlugin] I've run on tick 9601
+2015-02-17 23:17:52 [INFO] [ExamplePlugin] I've run on tick 9721
+2015-02-17 23:17:58 [INFO] [ExamplePlugin] I've run on tick 9841
+2015-02-17 23:18:04 [INFO] [ExamplePlugin] I've run on tick 9961
+2015-02-17 23:18:10 [INFO] [ExamplePlugin] I've run on tick 10081
+2015-02-17 23:18:16 [INFO] [ExamplePlugin] I've run on tick 10201
+2015-02-17 23:18:22 [INFO] [ExamplePlugin] I've run on tick 10321
+2015-02-17 23:18:28 [INFO] [ExamplePlugin] I've run on tick 10441
+2015-02-17 23:18:34 [INFO] [ExamplePlugin] I've run on tick 10561
+2015-02-17 23:18:40 [INFO] [ExamplePlugin] I've run on tick 10681
+2015-02-17 23:18:46 [INFO] [ExamplePlugin] I've run on tick 10801
+2015-02-17 23:18:52 [INFO] [ExamplePlugin] I've run on tick 10921
+2015-02-17 23:18:58 [INFO] [ExamplePlugin] I've run on tick 11041
+2015-02-17 23:19:04 [INFO] [ExamplePlugin] I've run on tick 11161
+2015-02-17 23:19:10 [INFO] [ExamplePlugin] I've run on tick 11281
+2015-02-17 23:19:16 [INFO] [ExamplePlugin] I've run on tick 11401
+2015-02-17 23:19:22 [INFO] [ExamplePlugin] I've run on tick 11521
+2015-02-17 23:19:28 [INFO] [ExamplePlugin] I've run on tick 11641
+2015-02-17 23:19:34 [INFO] [ExamplePlugin] I've run on tick 11761
+2015-02-17 23:19:40 [INFO] [ExamplePlugin] I've run on tick 11881
+2015-02-17 23:19:46 [INFO] [ExamplePlugin] I've run on tick 12001
+2015-02-17 23:19:46 [INFO] [RealTime] It is 23:19
+2015-02-17 23:19:52 [INFO] [ExamplePlugin] I've run on tick 12121
+2015-02-17 23:19:58 [INFO] [ExamplePlugin] I've run on tick 12241
+2015-02-17 23:20:04 [INFO] [ExamplePlugin] I've run on tick 12361
+2015-02-17 23:20:10 [INFO] [ExamplePlugin] I've run on tick 12481
+2015-02-17 23:20:16 [INFO] [ExamplePlugin] I've run on tick 12601
+2015-02-17 23:20:22 [INFO] [ExamplePlugin] I've run on tick 12721
+2015-02-17 23:20:28 [INFO] [ExamplePlugin] I've run on tick 12841
+2015-02-17 23:20:34 [INFO] [ExamplePlugin] I've run on tick 12961
+2015-02-17 23:20:40 [INFO] [ExamplePlugin] I've run on tick 13081
+2015-02-17 23:20:46 [INFO] [ExamplePlugin] I've run on tick 13201
+2015-02-17 23:20:52 [INFO] [ExamplePlugin] I've run on tick 13321
+2015-02-17 23:20:58 [INFO] [ExamplePlugin] I've run on tick 13441
+2015-02-17 23:21:04 [INFO] [ExamplePlugin] I've run on tick 13561
+2015-02-17 23:21:10 [INFO] [ExamplePlugin] I've run on tick 13681
+2015-02-17 23:21:16 [INFO] [ExamplePlugin] I've run on tick 13801
+2015-02-17 23:21:22 [INFO] [ExamplePlugin] I've run on tick 13921
+2015-02-17 23:21:28 [INFO] [ExamplePlugin] I've run on tick 14041
+2015-02-17 23:21:34 [INFO] [ExamplePlugin] I've run on tick 14161
+2015-02-17 23:21:40 [INFO] [ExamplePlugin] I've run on tick 14281
+2015-02-17 23:21:46 [INFO] [ExamplePlugin] I've run on tick 14401
+2015-02-17 23:21:52 [INFO] [ExamplePlugin] I've run on tick 14521
+2015-02-17 23:21:58 [INFO] [ExamplePlugin] I've run on tick 14641
+2015-02-17 23:22:04 [INFO] [ExamplePlugin] I've run on tick 14761
+2015-02-17 23:22:10 [INFO] [ExamplePlugin] I've run on tick 14881
+2015-02-17 23:22:16 [INFO] [ExamplePlugin] I've run on tick 15001
+2015-02-17 23:22:22 [INFO] [ExamplePlugin] I've run on tick 15121
+2015-02-17 23:22:28 [INFO] [ExamplePlugin] I've run on tick 15241
+2015-02-17 23:22:34 [INFO] [ExamplePlugin] I've run on tick 15361
+2015-02-17 23:22:40 [INFO] [ExamplePlugin] I've run on tick 15481
+2015-02-17 23:22:46 [INFO] [ExamplePlugin] I've run on tick 15601
+2015-02-17 23:22:52 [INFO] [ExamplePlugin] I've run on tick 15721
+2015-02-17 23:22:58 [INFO] [ExamplePlugin] I've run on tick 15841
+2015-02-17 23:23:04 [INFO] [ExamplePlugin] I've run on tick 15961
+2015-02-17 23:23:10 [INFO] [ExamplePlugin] I've run on tick 16081
+2015-02-17 23:23:16 [INFO] [ExamplePlugin] I've run on tick 16201
+2015-02-17 23:23:22 [INFO] [ExamplePlugin] I've run on tick 16321
+2015-02-17 23:23:28 [INFO] [ExamplePlugin] I've run on tick 16441
+2015-02-17 23:23:34 [INFO] [ExamplePlugin] I've run on tick 16561
+2015-02-17 23:23:40 [INFO] [ExamplePlugin] I've run on tick 16681
+2015-02-17 23:23:46 [INFO] [ExamplePlugin] I've run on tick 16801
+2015-02-17 23:23:52 [INFO] [ExamplePlugin] I've run on tick 16921
+2015-02-17 23:23:58 [INFO] [ExamplePlugin] I've run on tick 17041
+2015-02-17 23:24:04 [INFO] [ExamplePlugin] I've run on tick 17161
+2015-02-17 23:24:10 [INFO] [ExamplePlugin] I've run on tick 17281
+2015-02-17 23:24:16 [INFO] [ExamplePlugin] I've run on tick 17401
+2015-02-17 23:24:22 [INFO] [ExamplePlugin] I've run on tick 17521
+2015-02-17 23:24:28 [INFO] [ExamplePlugin] I've run on tick 17641
+2015-02-17 23:24:34 [INFO] [ExamplePlugin] I've run on tick 17761
+2015-02-17 23:24:40 [INFO] [ExamplePlugin] I've run on tick 17881
+2015-02-17 23:24:46 [INFO] [ExamplePlugin] I've run on tick 18001
+2015-02-17 23:24:46 [INFO] [RealTime] It is 23:24
+2015-02-17 23:24:52 [INFO] [ExamplePlugin] I've run on tick 18121
+2015-02-17 23:24:58 [INFO] [ExamplePlugin] I've run on tick 18241
+2015-02-17 23:25:04 [INFO] [ExamplePlugin] I've run on tick 18361
+2015-02-17 23:25:10 [INFO] [ExamplePlugin] I've run on tick 18481
+2015-02-17 23:25:16 [INFO] [ExamplePlugin] I've run on tick 18601
+2015-02-17 23:25:22 [INFO] [ExamplePlugin] I've run on tick 18721
+2015-02-17 23:25:28 [INFO] [ExamplePlugin] I've run on tick 18841
+2015-02-17 23:25:34 [INFO] [ExamplePlugin] I've run on tick 18961
+2015-02-17 23:25:40 [INFO] [ExamplePlugin] I've run on tick 19081
+2015-02-17 23:25:46 [INFO] [ExamplePlugin] I've run on tick 19201
+2015-02-17 23:25:52 [INFO] [ExamplePlugin] I've run on tick 19321
+2015-02-17 23:25:58 [INFO] [ExamplePlugin] I've run on tick 19441
+2015-02-17 23:26:04 [INFO] [ExamplePlugin] I've run on tick 19561
+2015-02-17 23:26:10 [INFO] [ExamplePlugin] I've run on tick 19681
+2015-02-17 23:26:16 [INFO] [ExamplePlugin] I've run on tick 19801
+2015-02-17 23:26:22 [INFO] [ExamplePlugin] I've run on tick 19921
+2015-02-17 23:26:28 [INFO] [ExamplePlugin] I've run on tick 20041
+2015-02-17 23:26:34 [INFO] [ExamplePlugin] I've run on tick 20161
+2015-02-17 23:26:40 [INFO] [ExamplePlugin] I've run on tick 20281
+2015-02-17 23:26:46 [INFO] [ExamplePlugin] I've run on tick 20401
+2015-02-17 23:26:52 [INFO] [ExamplePlugin] I've run on tick 20521
+2015-02-17 23:26:58 [INFO] [ExamplePlugin] I've run on tick 20641
+2015-02-17 23:27:04 [INFO] [ExamplePlugin] I've run on tick 20761
+2015-02-17 23:27:10 [INFO] [ExamplePlugin] I've run on tick 20881
+2015-02-17 23:27:16 [INFO] [ExamplePlugin] I've run on tick 21001
+2015-02-17 23:27:22 [INFO] [ExamplePlugin] I've run on tick 21121
+2015-02-17 23:27:28 [INFO] [ExamplePlugin] I've run on tick 21241
+2015-02-17 23:27:34 [INFO] [ExamplePlugin] I've run on tick 21361
+2015-02-17 23:27:40 [INFO] [ExamplePlugin] I've run on tick 21481
+2015-02-17 23:27:46 [INFO] [ExamplePlugin] I've run on tick 21601
+2015-02-17 23:27:52 [INFO] [ExamplePlugin] I've run on tick 21721
+2015-02-17 23:27:58 [INFO] [ExamplePlugin] I've run on tick 21841
+2015-02-17 23:28:04 [INFO] [ExamplePlugin] I've run on tick 21961
+2015-02-17 23:28:10 [INFO] [ExamplePlugin] I've run on tick 22081
+2015-02-17 23:28:16 [INFO] [ExamplePlugin] I've run on tick 22201
+2015-02-17 23:28:22 [INFO] [ExamplePlugin] I've run on tick 22321
+2015-02-17 23:28:28 [INFO] [ExamplePlugin] I've run on tick 22441
+2015-02-17 23:28:34 [INFO] [ExamplePlugin] I've run on tick 22561
+2015-02-17 23:28:40 [INFO] [ExamplePlugin] I've run on tick 22681
+2015-02-17 23:28:46 [INFO] [ExamplePlugin] I've run on tick 22801
+2015-02-17 23:28:52 [INFO] [ExamplePlugin] I've run on tick 22921
+2015-02-17 23:28:58 [INFO] [ExamplePlugin] I've run on tick 23041
+2015-02-17 23:29:04 [INFO] [ExamplePlugin] I've run on tick 23161
+2015-02-17 23:29:10 [INFO] [ExamplePlugin] I've run on tick 23281
+2015-02-17 23:29:16 [INFO] [ExamplePlugin] I've run on tick 23401
+2015-02-17 23:29:22 [INFO] [ExamplePlugin] I've run on tick 23521
+2015-02-17 23:29:28 [INFO] [ExamplePlugin] I've run on tick 23641
+2015-02-17 23:29:34 [INFO] [ExamplePlugin] I've run on tick 23761
+2015-02-17 23:29:40 [INFO] [ExamplePlugin] I've run on tick 23881
+2015-02-17 23:29:46 [INFO] [ExamplePlugin] I've run on tick 24001
+2015-02-17 23:29:46 [INFO] [RealTime] It is 23:29
+2015-02-17 23:29:52 [INFO] [ExamplePlugin] I've run on tick 24121
+2015-02-17 23:29:58 [INFO] [ExamplePlugin] I've run on tick 24241
+2015-02-17 23:30:04 [INFO] [ExamplePlugin] I've run on tick 24361
+2015-02-17 23:30:10 [INFO] [ExamplePlugin] I've run on tick 24481
+2015-02-17 23:30:16 [INFO] [ExamplePlugin] I've run on tick 24601
+2015-02-17 23:30:22 [INFO] [ExamplePlugin] I've run on tick 24721
+2015-02-17 23:30:28 [INFO] [ExamplePlugin] I've run on tick 24841
+2015-02-17 23:30:34 [INFO] [ExamplePlugin] I've run on tick 24961
+2015-02-17 23:30:40 [INFO] [ExamplePlugin] I've run on tick 25081
+2015-02-17 23:30:46 [INFO] [ExamplePlugin] I've run on tick 25201
+2015-02-17 23:30:52 [INFO] [ExamplePlugin] I've run on tick 25321
+2015-02-17 23:30:58 [INFO] [ExamplePlugin] I've run on tick 25441
+2015-02-17 23:31:04 [INFO] [ExamplePlugin] I've run on tick 25561
+2015-02-17 23:31:10 [INFO] [ExamplePlugin] I've run on tick 25681
+2015-02-17 23:31:16 [INFO] [ExamplePlugin] I've run on tick 25801
+2015-02-17 23:31:22 [INFO] [ExamplePlugin] I've run on tick 25921
+2015-02-17 23:31:28 [INFO] [ExamplePlugin] I've run on tick 26041
+2015-02-17 23:31:34 [INFO] [ExamplePlugin] I've run on tick 26161
+2015-02-17 23:31:36 [INFO] cheapjack[/192.168.0.9:34338] logged in with entity id 1 at (world, 157.4347, 4, 134.1843)
+2015-02-17 23:31:38 [INFO] cheapjack has just spawned!
+2015-02-17 23:31:38 [INFO] cheapjack joined the game
+2015-02-17 23:31:40 [INFO] [ExamplePlugin] I've run on tick 26281
+2015-02-17 23:31:46 [INFO] [ExamplePlugin] I've run on tick 26401
+2015-02-17 23:31:52 [INFO] [ExamplePlugin] I've run on tick 26521
+2015-02-17 23:31:58 [INFO] [ExamplePlugin] I've run on tick 26641
+2015-02-17 23:32:04 [INFO] [ExamplePlugin] I've run on tick 26761
+2015-02-17 23:32:10 [INFO] [ExamplePlugin] I've run on tick 26881
+2015-02-17 23:32:11 [INFO] <cheapjack> time set day
+2015-02-17 23:32:16 [INFO] [ExamplePlugin] I've run on tick 27001
+2015-02-17 23:32:22 [INFO] [ExamplePlugin] I've run on tick 27121
+2015-02-17 23:32:28 [INFO] [ExamplePlugin] I've run on tick 27241
+2015-02-17 23:32:34 [INFO] [ExamplePlugin] I've run on tick 27361
+2015-02-17 23:32:40 [INFO] [ExamplePlugin] I've run on tick 27481
+2015-02-17 23:32:46 [INFO] [ExamplePlugin] I've run on tick 27601
+2015-02-17 23:32:52 [INFO] [ExamplePlugin] I've run on tick 27721
+2015-02-17 23:32:58 [INFO] [ExamplePlugin] I've run on tick 27841
+2015-02-17 23:33:04 [INFO] [ExamplePlugin] I've run on tick 27961
+2015-02-17 23:33:10 [INFO] [ExamplePlugin] I've run on tick 28081
+2015-02-17 23:33:16 [INFO] [ExamplePlugin] I've run on tick 28201
+2015-02-17 23:33:22 [INFO] [ExamplePlugin] I've run on tick 28321
+2015-02-17 23:33:28 [INFO] [ExamplePlugin] I've run on tick 28441
+2015-02-17 23:33:34 [INFO] [ExamplePlugin] I've run on tick 28561
+2015-02-17 23:33:37 [INFO] cheapjack left the game
+2015-02-17 23:33:37 [INFO] cheapjack[/192.168.0.9:34338] logged out due to client disconnect
+2015-02-17 23:33:40 [INFO] [ExamplePlugin] I've run on tick 28681
+2015-02-17 23:33:46 [INFO] [ExamplePlugin] I've run on tick 28801
+2015-02-17 23:33:52 [INFO] [ExamplePlugin] I've run on tick 28921
+2015-02-17 23:33:58 [INFO] [ExamplePlugin] I've run on tick 29041
+2015-02-17 23:34:03 [INFO] CONSOLE: Stopping the server...
+2015-02-17 23:34:03 [INFO] Disabling CommandRepeater v1.0.1
+2015-02-17 23:34:03 [INFO] Disabling DevTools v1.9.0
+2015-02-17 23:34:03 [INFO] Disabling EssentialsPE v1.1.0
+2015-02-17 23:34:03 [INFO] Disabling PaintMyLawn v1.2.0
+2015-02-17 23:34:03 [INFO] Disabling RealTime v2.1
+2015-02-17 23:34:03 [INFO] [RealTime] RealTime disabled.
+2015-02-17 23:34:03 [INFO] Disabling WorldEditArt v1.0.0_beta_dev_#045
+2015-02-17 23:34:03 [INFO] Disabling ExamplePlugin v1.0.0
+2015-02-17 23:34:03 [INFO] [ExamplePlugin] I've been disabled!
+2015-02-17 23:34:03 [INFO] Unloading level "world"
+2015-02-17 23:34:03 [INFO] Stopping other threads
