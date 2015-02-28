@@ -1,7 +1,7 @@
 # pocket
 <h3>A custom pocketmine server setup for Museums and Art Galleries</h3>
 
-<p>Features useful contributed plugins from PEMapModder and shoghicp</p><p>Please note I'm a github noob not quite worked out how to <br>make the plugins forks or branches of their repos or if this is necessary!</p>
+<p>Running <strong>PocketMine-MP version 1.4-916</strong> <br>Features useful contributed plugins from PEMapModder and shoghicp</p><p>Please note I'm a github noob not quite worked out how to <br>make the plugins forks or branches of their repos or if this is necessary!</p>
 
 <p>CommandRepeater.phar 
 <br>DevTools v1.9.0 
